@@ -1,6 +1,6 @@
 # CSharpNewYearCountdown
 This repository is dedicated to an annual
-celebration of the 1^st^ day of January. I
+celebration of the 1<sup>st</sup> day of January. I
 dedicate myself to update this repository
 on December of each succeeding years to
 remind everyone of the joy of welcoming new
