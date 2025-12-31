@@ -11,3 +11,7 @@ AudioPlayer.cs
 # Exclude tracking for the Debug folder and its contents
 bin/Debug/
 bin/Debug
+
+# Include directories? (prob might work)
+!bin/Release/
+!bin/Release/*.exe
