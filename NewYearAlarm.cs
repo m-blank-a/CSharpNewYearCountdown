@@ -15,13 +15,13 @@ namespace CSharpNewYearCountdown
     internal class NewYearAlarm
     {
         // January 1, 2026 00:00:00 (GMT+08:00)
-        // change ts for next year
+        // change ts for next year or your local time
         const int UNIXNEWYEAR = 1767196800;
 
         // Offset time to play song earlier than alarm
         // Chorus of Lauv - I Like Me Better starts at 49.8s
         const int secondsOffset = 49;
-        const int millisecondsOffset = 800;
+        const int millisecondsOffset = 780;
 
         // Note: When using a sound, set sampling rate to 96kHz
         //       and set to Unsigned 32-bit PCM. In this way, the
