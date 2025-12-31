@@ -1,0 +1,10 @@
+﻿# Exclude binaries and obj shenanigans
+.vs/
+bin/
+obj/
+Resources/
+*.wav
+*.csproj
+*.sln
+AudioPlayer.cs
+*.ico
